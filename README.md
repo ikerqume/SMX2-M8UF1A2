@@ -33,7 +33,26 @@ HTML es el lenguaje estándar para estructurar y presentar contenido
 <!D0CTYPE html> 
 <html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content=" IE=Edge">
+    <meta name="viewport" content=width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
 
+</body>
+</html>
+
+7. ¿Qué es CSS?
+
+CSS es un lenguaje de diseño utilizado para dar estilo y formato a las páginas web. 
+
+8. Flujo de trabajo ( navegador, petición, servidor y respuesta): 
+
+Solicitud : Como usuario, ingresas una dirección web en tu navegador. Esta acción genera una solicitud al servidor donde se encuentra alojada la página web.
+Servidor: El servidor recibe esta solicitud y busca el archivo HTML
+Respuesta (Response): El servidor envía una respuesta al navegador, que incluye el código HTML de la página web. 
+Navegador: El navegador recibe la respuesta, analiza el código HTML y comienza a construir la página en tu pantalla. 
 
 
 
