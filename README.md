@@ -21,3 +21,21 @@ Una herramienta ofimática es un programa diseñado para realizar tareas relacio
 |Aplicaciones |Visto |
 |-----------|:---------:|
 |Google Docs |:heavy_check_mark:|
+|Google Slides |:heavy_check_mark:|
+|Google Sheets |:heavy_check_mark:|
+|Google Calendar |:calendar:|
+|Google Meet |:computer:|
+
+6. ¿Qué es HTLM?
+
+HTML es el lenguaje estándar para estructurar y presentar contenido
+
+<!D0CTYPE html> 
+<html lang="en">
+<head>
+
+
+
+
+
+
